@@ -100,7 +100,13 @@
 - **Versão Android:** 15
 - **Download:** [Servidor AllawnOFS](https://dfs-serverauto-in.allawnofs.com/dfs/25/05/10/212c7746f44a47fba4d44e0ee920ea0d.zip)
 
-### 📥 LG Downgrade ROMs (KDZ)
+### 
+
+# 📥 ROM LG DOWNGARDE (KDZ)
+
+> [!NOTE]  
+> **CASO VOCÊ TENHA ALGUM QUE NÃO ESTEJA NA LISTA:**  
+> Sinta-se à vontade para contribuir adicionando o link e o modelo compatível!
 
 ### 📱 LG K41s (K410BMW)
 - **Downgrade ROM**
