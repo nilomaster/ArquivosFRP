@@ -99,3 +99,32 @@
 - **Project No:** `24751`
 - **Versão Android:** 15
 - **Download:** [Servidor AllawnOFS](https://dfs-serverauto-in.allawnofs.com/dfs/25/05/10/212c7746f44a47fba4d44e0ee920ea0d.zip)
+
+### 📥 LG Downgrade ROMs (KDZ)
+###📱 **LG K41s (K410BMW)**
+- **Downgrade ROM**
+- **🔗** https://www.mediafire.com/file/f6063tfklo5191q/K410BMW20a_00_OPEN_SCA_DS_OP_1223.kdz/file
+
+---
+
+###📱 LG K51s (K510BMW)
+- **Downgrade ROM**
+- **🔗** https://www.mediafire.com/file/edf18hfpqgekzz7/LG_K51S_K510BMW_10a_04_OPEN_SCA_DS_OP_1028.kdz/file
+
+---
+
+###📱 **LG K52 (K420BMW)**
+- **Downgrade ROM**
+- **🔗 https://drive.google.com/file/d/1gHqaY6lonpwuZ2ptXsey0Q0uF_PGSKt9/view?usp=sharing
+
+---
+
+###📱 LG K61 (Q630BA)
+- **Downgrade ROM**
+- **🔗** https://drive.google.com/file/d/1_8FmTkEav_3RUIedWih5zZxC6sVu3KA1/view?usp=sharing
+
+---
+
+###📱 LG K62 (K520BMW)
+- **Downgrade ROM**
+- **🔗** https://www.mediafire.com/file/55jedg2q3u8mu12/LG_K62_K520BMW_10a_06_CLR_BR_DS_OP_0203.kdz/file
