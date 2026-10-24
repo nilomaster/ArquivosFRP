@@ -135,3 +135,7 @@
 ### 📱 LG K62 (K520BMW)
 - **Downgrade ROM**
 - **🔗** https://www.mediafire.com/file/55jedg2q3u8mu12/LG_K62_K520BMW_10a_06_CLR_BR_DS_OP_0203.kdz/file
+
+### 📱 LG K62+ (K525BMW10)
+- **Downgrade ROM**
+- **🔗** https://mega.nz/file/4i1n2KxZ#Edg8QkYntvVULKeBOsoN-YkKUbvf9_znrlCViKxyWfY
